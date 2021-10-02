@@ -5,8 +5,9 @@ Digital Halloween Trick-or-Treating NFT Project. Will you mint a Trick? or a Tre
 ## Minting
 Everyone will receive `1 free mint`, and any mint after that will be `1 FTM`. <br>
 If you are a $FLOOT holder, you will receive 5 free mints.<br>
-Transactions on Fantom Opera are cents, combined with the cost of minting being cheap. Requires that the rarity to legend probability
-is 
+Transactions on Fantom Opera are cents, combined with the cost of minting being cheap.
+While the cost of minting is slim, the probability of minting a Legendary is not.
+Take advantage of batch minting to increase your odds of minting a Legendary, and receive a Free Christmas Gift.
 
 ## Supply
 This project does not have a traditional max supply. You will ONLY be able to mint this project during Halloween Weekend.
@@ -25,12 +26,12 @@ The odds of minting a Treat (4/5)<br>
 The odds of minting a Trick (1/5)
 <br>
 
-The odds that the mint gets elevated to Rare Treat (1/15)<br>
-The odds that the mint gets elevated to Rare Trick (1/25)
+The odds that the Treat gets elevated to Rare Treat (1/15)<br>
+The odds that the Trick gets elevated to Rare Trick (1/25)
 <br>
 
-The odds that the rare mint gets elevated to Legendary Treat are (1/10) <br>
-The odds that the rare mint gets elevated to Legendary Trick are (1/20)
+The odds that the Rare Treat gets elevated to Legendary Treat are (1/10) <br>
+The odds that the Rare Trick gets elevated to Legendary Trick are (1/20)
 
 ## Utility
 If you are lucky enough to mint a Legendary Trick, you can expect to receive a gift from Santa in December.<br>
