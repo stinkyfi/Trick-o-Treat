@@ -1,4 +1,4 @@
-# <img src="https://github.com/stinkyfi/Trick-o-Treat/blob/main/Images/pukin_transparent.png" width="50">Trick-o-Treat
+# <img src="https://github.com/stinkyfi/Trick-o-Treat/blob/main/Images/pumpkin2.gif" width="25">Trick-o-Treat
 
 Digital Halloween Trick-or-Treating NFT Project. Will you mint a Trick? or a Treat?
 
